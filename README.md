@@ -1,5 +1,5 @@
-# BlackScreenDemo
-A black Screen demo
+# BlackScreenDemo iOS的一个转屏bug demo
+A black Screen demo 
 
 1.This is the black screen snapshot!
 
